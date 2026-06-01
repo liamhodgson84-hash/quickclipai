@@ -1,5 +1,5 @@
 # quickclipai
-This is a great website to make viral short clips with AI's help! AI will do everything for you, and make you go viral on social media FAST!
+
 // Main application server - backend for AI Shorts Creator
 import express from 'express';
 import cors from 'cors';
